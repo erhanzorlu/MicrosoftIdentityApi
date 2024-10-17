@@ -1,0 +1,6 @@
+@MicrosoftIdentityApi_HostAddress = http://localhost:5100
+
+GET {{MicrosoftIdentityApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
